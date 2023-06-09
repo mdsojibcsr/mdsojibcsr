@@ -10,7 +10,7 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter from 🇧🇩 
 
 
 
-### 👨‍🦱 Profile 
+### 👨‍🦱 Github Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsojibcsr&label=Profile%20views&color=C70039&style=flat" alt="mdsojibcsr" /> </p>
 
