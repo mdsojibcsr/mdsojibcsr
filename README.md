@@ -20,7 +20,7 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter from 🇧🇩 
 
 <br/>
 
-### 💼 &nbsp; Employment History
+### 💼 Employment History
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
