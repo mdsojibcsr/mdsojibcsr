@@ -10,6 +10,53 @@ Click the link below to follow me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsojibcsr&label=Profile%20views&color=C70039&style=flat" alt="mdsojibcsr" /> </p>
 
+### 💼 &nbsp; Employment History
+
+| Position            | Institute                                   | Duration            | Location           |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| Founder and CEO  | Encrypt Lab Ltd.                                   | Dec 2022 - Running  | Rajshahi, Bangladesh  |
+| IT Manager   | Bonolota Food                                     | Oct 2022 - Feb 2023 | Rajshahi, Bangladesh   |
+
+<br />
+<!-- work experience section ends here  -->
+<!-- education section starts here  -->
+
+### 👨🏻‍🎓 &nbsp; Education
+
+1. HSC in Science at Varendra College, Rajshahi, Bangladesh. 
+2. SSS in Science at Nachole Pilot High School, Chapainawabganj, Bangladesh. 
+
+<br />
+
+<!-- education section ends here  -->
+
+<!-- my languages section starts here  -->
+
+### Languages:
+
+-  Bangla : Native
+-  English : Advanced
+-  Hindi : Intermediate
+-  Arabic : Basic
+  <br />
+
+<!-- my languages section ends here  -->
+
+<!-- my sports and game section starts here  -->
+
+### Sports / Game / Activities / Hobby:
+
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton,
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling, 🚲 Cycling 
+
+<br />
+
+---
+
+Thanks for going through my Portfolio.
+All rights reserved by MD SOJIB @2023
+
 
 
 
