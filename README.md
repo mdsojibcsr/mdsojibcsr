@@ -31,7 +31,7 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter from 🇧🇩 
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
-### 👨🏻‍🎓 &nbsp; Education
+### 👨🏻‍🎓 Education
 
 1. HSC in Science at Varendra College, Rajshahi, Bangladesh. 
 2. SSS in Science at Nachole Pilot High School, Chapainawabganj, Bangladesh. 
