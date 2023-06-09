@@ -59,7 +59,7 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter from 🇧🇩 
 
 <!-- my sports and game section starts here  -->
 
-### Activities:
+### 🔊 Activities:
 
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton,
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
