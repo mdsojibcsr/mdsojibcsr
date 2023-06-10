@@ -1,6 +1,6 @@
 <img src="./banner.png" width="100%">
 
-###  About Me
+### 🪧 About Me
 
 #### 👋 Hi there,
 
