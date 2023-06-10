@@ -1,13 +1,12 @@
 <img src="./banner.png" width="100%">
 
-### 👋 Hi there 
+###  About Me
+
+#### 👋 Hi there,
 
 
 
-I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration Tester from 🇧🇩 Rajshahi, Bangladesh.
-
-### About Me
-I want to pursue my goals with dedication, sincerity, honesty and hard work.  I have had a strong interest in cyber security since childhood.  It is from this place of interest that I greatly respect and love my work.
+I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration Tester from 🇧🇩 Rajshahi, Bangladesh. I want to pursue my goals with dedication, sincerity, honesty and hard work.  I have had a strong interest in cyber security since childhood.  It is from this place of interest that I greatly respect and love my work.
 
 ### 🏛️ Contact Me
 
