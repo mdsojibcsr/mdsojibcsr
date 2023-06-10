@@ -4,7 +4,7 @@
 
 
 
-I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter from 🇧🇩 Rajshahi, Bangladesh.
+I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration Tester from 🇧🇩 Rajshahi, Bangladesh.
 
 ### 🏛️ Contact Me
 
