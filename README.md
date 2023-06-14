@@ -17,7 +17,7 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration T
 
 ### 👨‍🦱 Github Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsojibcsr&label=Profile%20views&color=C70039&style=flat" alt="mdsojibcsr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdsojibcsr&label=Profile%20views&color=C70039&style=flat" alt="mdsojibcsr" /> </p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsojibcsr&show_icons=true)
 
