@@ -4,7 +4,7 @@
 
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=40&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Cyber+Security+Researcher+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=40&duration=5304&pause=1000&color=C70039&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Cyber+Security+Researcher+;Always+learning+new+things" alt="Typing SVG" /></a>
 
 
 I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration Tester from 🇧🇩 Rajshahi, Bangladesh. I want to pursue my goals with dedication, sincerity, honesty and hard work.  I have had a strong interest in cyber security since childhood.  It is from this place of interest that I greatly respect and love my work.
