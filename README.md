@@ -30,7 +30,6 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration T
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Founder and CEO  | Encrypt Lab Ltd.                                   | Dec 2022 - Running  | Rajshahi, Bangladesh  |
 | IT Manager   | Bonolota Food                                     | Oct 2022 - Feb 2023 | Rajshahi, Bangladesh   |
 
 <br />
