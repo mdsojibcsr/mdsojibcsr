@@ -33,8 +33,6 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration T
 | IT Manager   | Bonolota Food                                     | Oct 2022 - Feb 2023 | Rajshahi, Bangladesh   |
 
 <br />
-<!-- work experience section ends here  -->
-<!-- education section starts here  -->
 
 ### 👨🏻‍🎓 Education
 
@@ -43,10 +41,6 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration T
 
 <br />
 
-<!-- education section ends here  -->
-
-<!-- my languages section starts here  -->
-
 ### 🈯 Languages:
 
 -  Bangla : Native
@@ -54,10 +48,6 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration T
 -  Hindi : Intermediate
 -  Arabic : Basic
   <br />
-
-<!-- my languages section ends here  -->
-
-<!-- my sports and game section starts here  -->
 
 ### 🔊 Activities:
 
