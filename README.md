@@ -11,7 +11,7 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration T
 
 ### 🏛️ Contact Me
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/mdsojibcsr1)](https://facebook.com/mdsojibcsr1) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://instagram.com/mdsojibcsr)](https://instagram.com/mdsojibcsr) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mdsojibcsr)](https://twitter.com/mdsojibcsr) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdsojibcsr/)](https://www.linkedin.com/in/mdsojibcsr/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/mdsojibcsr)](https://facebook.com/mdsojibcsr) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://instagram.com/mdsojibcsr)](https://instagram.com/mdsojibcsr) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mdsojibcsr)](https://twitter.com/mdsojibcsr) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdsojibcsr/)](https://www.linkedin.com/in/mdsojibcsr/) 
 
 
 
@@ -62,7 +62,7 @@ I'm MD SOJIB, Cyber Security Researcher 🧑‍💻️ Bug Hunter, Penetration T
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by MD SOJIB @2023
+All rights reserved by MD SOJIB @2024
 
 
 
