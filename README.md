@@ -1,4 +1,4 @@
-<img src="./banner.png" width="100%">
+<img src="./11.jpg" width="100%">
 
 ### 🪧 About Me
 
