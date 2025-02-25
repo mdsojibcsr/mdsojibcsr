@@ -62,7 +62,7 @@ I'm MD SOJIB, Web Application Security Analyst 🧑‍💻️ Bug Hunter, Web Pe
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by MD SOJIB @2024
+All rights reserved by MD SOJIB @2025
 
 
 
